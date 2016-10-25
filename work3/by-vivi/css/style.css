@@ -1,0 +1,47 @@
+body {
+  float: left;
+  padding: 20px;
+  background-color: #eee;
+  border: 1px solid #999;
+}
+div {
+    border: 1px solid #999;
+}
+.zuobian {
+  float: left;
+  height: 120px;
+  width: 200px;
+}
+.tupian1 {
+  height: 80px;
+  width: 80px;
+  float: left;
+  padding: 20px;
+}
+.zuobian h1 {
+  font-size: 12px;
+  padding: 20px;
+  text-align: center;
+}
+.zhongjian {
+  padding: 20px;
+  margin-left: 220px;
+  margin-right: 300px;
+  width: auto;
+}
+.zhongjian h1 {
+  font-size: 24px;
+}
+.zhongjian p {
+  font-size: 18px;
+  text-indent: 2em;
+}
+.youbian {
+  float: right;
+  margin-top: -390px;
+  /*padding: 20px;*/
+}
+.youbian .tupian2 {
+  display: block;
+  padding: 20px;
+}
