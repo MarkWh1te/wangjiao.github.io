@@ -47,7 +47,7 @@ var p = document.getElementById('drink-menu');
 
 function success(text) {
     var textarea = document.getElementById('drink-menu');
-    textarea.innerHTML = '<img src='+text['image']+'>'+'<br>'+'<h1>'+text['author']+'</h1>';
+    textarea.innerHTML = '<img src='+text['image']+'>'+'<br>'+'<h1>'+text['auther']+'</h1>';
     // textarea.innerText = "sssss";
 }
 
